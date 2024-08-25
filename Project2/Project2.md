@@ -4,7 +4,7 @@ As a continuation from the first project of Setting up a static server using Ngi
 
 This project succeeded in setting up 
 
-[Fitfam](https://www.fitfam.techteam.help) and [Eatwell](https://www.eatwell.techteam.help) websites on a single server  with the following processes:
+[Fitfam](https://fitfam.techteam.help) and [Eatwell](https://eatwell.techteam.help) websites on a single server  with the following processes:
 
 
 
