@@ -1,10 +1,10 @@
 # Setting Up Multiple Static Websites on a Single Server Using Nginx Virtual Hosts
 
-As a continuation from the first project of Setting up a static server using Nginx [www.teachteam.help](Techteam.help)
+As a continuation from the first project of Setting up a static server using Nginx [www.teachteam.help](https://www.Techteam.help)
 
 This project succeeded in setting up 
 
-[Fitfam](www.fitfam.techteam.help) and [Eatwell](www.eatwell.techteam.help) websites on a single server  with the following processes:
+[Fitfam](https://www.fitfam.techteam.help) and [Eatwell](https://www.eatwell.techteam.help) websites on a single server  with the following processes:
 
 
 
