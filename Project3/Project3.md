@@ -159,7 +159,8 @@ and create A Records for the subdomain
 
 Go to browser and load website to ensure accessibility and reload to ensure load balancing traffic distribution between both servers 
 
-![7](/Project3/Images3/LoadBalanceResult%20copy.gif)
+![7](/Project3/Images3/LoadBalanceResult.mp4)
+
 
 
 ## Install certbot and Request For an SSL/TLS Certificate
@@ -170,7 +171,9 @@ Authorize HTTPS activation for techteam.help and www.techteam.help
 
 Access website to verify HTTPS succefully enabled 
 
-![8](/Project3/Images3/LoadBalancingSecureSite.mov)
+![8](/Project3/Images3/LoadBalancingSecureSite.mp4)
+
+
 
 
 
